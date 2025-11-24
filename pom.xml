@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>ai-log-analyzer</artifactId>
+    <artifactId>ai-log-analyzer-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ai-log-analyzer</name>
     <description>LLM-Powered Backend Debugging Assistant</description>
